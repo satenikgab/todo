@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "d62d",
+      "text": "watch movies",
+      "completed": false
+    },
+    {
+      "id": "789c",
+      "text": "do homework",
+      "completed": false
+    }
+  ]
+}
